@@ -6,9 +6,11 @@ The repository is organized into the following files and folders:
 
 - **`01_eda.ipynb`**: Contains the exploratory data analysis (EDA) steps, including data cleaning, visualization, and initial insights.
 - **`02_model.ipynb`**: Implements the machine learning pipeline, including preprocessing, model training, validation, and evaluation.
+- **`training_loan_data.csv`**: Main training data for EDA and model training (not included in the repo due to policy).
 - **`cleaned_train_data.csv`**: The preprocessed training data saved after EDA (not included in the repo due to policy).
-- **`testing_loan_data.csv`**: The test dataset (bad_flag is intentionally left blank).
+- **`testing_loan_data.csv`**: The test dataset (bad_flag is intentionally left blank and not included in the repo due to policy).
 - **`dict_data.json`**: Metadata information about the dataset.
+- **`requirements.txt`**: Containing requirements for running this project.
 - **`.gitignore`**: Specifies files and folders to ignore in the Git repository.
 - **`README.md`**: Explains the project structure, running instructions, and assumptions.
 
